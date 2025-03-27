@@ -53,11 +53,6 @@ h2
     text-align: center;
     font-size: 35pt;
     margin: 10px;
-    color: red;
-}
-p
-{
-    color: red;
 }
 li
 {
@@ -68,7 +63,6 @@ li
 }
 img 
 {
-    image-align: center;
     width: 70pt;
 }
 .side
@@ -114,8 +108,3 @@ section
     margin-top: 50px;
     margin-bottom: 50px;
 }
-#center
-{
-    margin: auto;
-{
-    
