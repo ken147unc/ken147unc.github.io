@@ -8,12 +8,12 @@
 @font-face
 {
     font-family: coolfont;
-    src: url("fonts/coolfont.woff2")
+    src: url("Arvo-Regular.ttf")
 }
 @font-face
 {
     font-family: dragonhunter;
-    src: url("fonts/DragonHunter.otf")
+    src: url("OpenSans-VariableFont_wdth,wght.ttf")
 }
 h1
 {
