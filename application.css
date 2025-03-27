@@ -55,6 +55,10 @@ h2
     margin: 10px;
     color: red;
 }
+p
+{
+    color: red;
+}
 li
 {
     font-family: coolfont;
