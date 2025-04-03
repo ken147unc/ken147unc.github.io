@@ -1,0 +1,58 @@
+:root
+{
+  color: rgb(0, 0, 255);
+  background-color: gray;
+  text-align: center;
+}
+
+.title
+{
+  color: gold;
+}
+
+h1
+{
+  font-size: 48pt;
+  text-decoration: underline;
+  color: gold;
+  font-size: auto;
+}
+
+img
+{
+  margin: auto;
+  display: block;
+  border-radius: 25px;
+}
+
+img 
+{
+  opacity: 1;
+}
+
+img:hover
+{
+  transform: scaleX(-1);
+  animation: shake 0.5;
+  animation-iteration-count: infinte;
+}
+
+table
+{
+    margin: auto;
+}
+p. 
+{
+  border-style: solid;
+  border-color: gray;
+}
+
+ul 
+{
+  font: OpenSans-VariableFont_wdth,wght.ttf;
+}
+
+ol 
+{
+  font: Arvo-Regular.ttf;
+}
