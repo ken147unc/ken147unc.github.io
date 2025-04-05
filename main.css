@@ -44,7 +44,7 @@ img
 img:hover
 {
   transform: scaleX(-1);
-  animation: shake 0;
+  animation: shake;
   animation-iteration-count: infinite;
 }
 
@@ -75,10 +75,10 @@ p
 
 ul 
 {
-  font-family: dragonhunter;
+    font-family: coolfont;
 }
 
 ol 
 {
-  font-family: coolfont;
+    font-family: dragonhunter;
 }
