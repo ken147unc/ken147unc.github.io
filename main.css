@@ -66,24 +66,39 @@ table
     margin: auto;
 }
 
-p
+.p2
 {
   border-style: solid;
   border-color: gray;
   font-family: dragonhunter;
 }
 
-a 
+.a 
 {
     font-family: coolfont;
 }
 
-ul 
+a:link 
+{
+  color: red;
+}
+
+a:visited 
+{
+  color: green;
+}
+
+a:hover 
+{
+  color: hotpink;
+}
+
+.ul 
 {
     font-family: coolfont;
 }
 
-ol 
+.ol 
 {
     font-family: dragonhunter;
 }
