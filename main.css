@@ -44,7 +44,7 @@ img
 img:hover
 {
   transform: scaleX(-1);
-  animation: shake 0.5;
+  animation: shake 0;
   animation-iteration-count: infinite;
 }
 
