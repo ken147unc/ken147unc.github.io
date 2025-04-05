@@ -70,6 +70,12 @@ p
 {
   border-style: solid;
   border-color: gray;
+  font-family: dragonhunter;
+}
+
+a 
+{
+    font-family: coolfont;
 }
 
 ul 
