@@ -10,51 +10,28 @@
         <h1>Fictional Characters Search</h1>
         <img scr="/images/characters.jpg" alt="Characters">
         <form action="https://www.google.com/search" method="GET" target="_blank">
-          <div>
-            <label for="charactersearch">Search a character:</label><br>
-            <textarea rows="3" name="q" id="site" placeholder=""></textarea>
-          </div>
-            <input type="radio" name="as_epq" id="cart" value="cartoons" checked>
-            <label for="cart">Cartoons</label><br>
-            <input type="radio" name="as_epq" id="ani" value="anime">
-            <label for="ani">Anime</label><br>
-            <input type="radio" name="as_epq" id="man" value="manga">
-            <span>Manga</span><br>
-              
-          <div>
-            <input type="submit" value="Testing">
-          </div>
             <fieldset id="toplevelset">
                 <div>
-                    <label for="searchbox">Search String</label>
+                    <label for="charactersearch">Search a character:</label>
                     <input type="text" name="q" id="searchbox">
                 </div>
+                    <input type="radio" name="as_epq" id="car" value="cartoons" checked>
+                    <label for="car">Cartoons</label><br>
+                    <input type="radio" name="as_epq" id="ani" value="anime">
+                    <label for="ani">Anime</label><br>
+                    <input type="radio" name="as_epq" id="man" value="manga">
+                    <span>Manga</span><br>
+              
                 <div>
                     <label for="site">Select a Site</label>
                     <select name="as_sitesearch" id="site">
                         <option value="">--All Websites--</option>
-                        <option value="zybooks.com">Zybooks</option>
-                        <option value="w3schools.com">W3Schools</option>
-                        <option value="html.spec.whatwg.org">HTML Living Standard</option>
-                    </select>
-                </div>
-                <div>
-                    <label for="phrase">Select a Subject (optional)</label>
-                    <select name="as_epq" id="phrase">
-                        <option value=""></option>
-                        <option value="html">HTML</option>
-                        <option value="css">CSS</option>
+                        <option value="bing.com">Bing</option>
+                        <option value="wikipedia.org">Wikipedia</option>
+                        <option value="gstatic.com">Yahoo</option>
                     </select>
                 </div>
                 <fieldset>
-                    <div>
-                        <input type="checkbox" name="newwindow" value="1" id="checkwindow">
-                        <label for="checkwindow">Open Links in New Window</label>
-                    </div>
-                    <div>
-                        <input type="checkbox" name="pws" value="0" id="checkpersonal">
-                        <label for="checkpersonal">Exclude Personal Results</label>
-                    </div>
                     <div>
                         <input type="checkbox" name="as_occt" value="url" id="checkurl">
                         <label for="checkurl">Limit Search to URLs</label>
@@ -63,6 +40,5 @@
             </fieldset>
             <input type="submit" value="Search">
         </form>
-        <p><a href="index.html"> Home </a></p>
     </body>
 </html>
