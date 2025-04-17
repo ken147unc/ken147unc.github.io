@@ -1,7 +1,7 @@
 @font-face
 {
     font-family: 'Tech';
-    src: url(Nunito-VariableFont_wght.ttf);
+    src: url(Arvo-Regular.ttf);
 }
 :root
 {
@@ -28,13 +28,22 @@ h2
     font-size: 28pt;
     font-family: 'Tech';
 }
+td, th
+{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: lightblue;
+}
 table
 {
-  border: 2px black soild;
-}
-td, th 
-{
     border: 2px black soild;
+    border-collapse: collapse;
+    margin: auto;
+}
+th
+{
+    background-color: gray;
+    font-size: 18px;
 }
 nav
 {
