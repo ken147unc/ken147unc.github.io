@@ -24,9 +24,9 @@ h1
 }
 nav
 {
-    border: 18px rgb(200, 200, 200) solid;
+    border: 1px rgb(200, 200, 200) solid;
     text-align: center;
-    width: 100pt;
+    width: 180pt;
     margin: auto;
 }
 nav ul
