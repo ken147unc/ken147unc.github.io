@@ -30,26 +30,6 @@ h2
     font-family: 'Tech';
 }
 
-h1 
-{
-    width: 80vw;  
-}
-
-h2
-{
-    width: 80vw;
-}
-
-.p
-{
-    width: 80vw;
-}
-
-img 
-{
-    width: 80vw;
-}
-
 td, th
 {
     border: 2px solid black;
