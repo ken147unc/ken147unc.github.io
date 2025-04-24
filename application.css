@@ -26,7 +26,7 @@ nav
 {
     border: 1px rgb(200, 200, 200) solid;
     text-align: center;
-    width: 92vw;
+    width: 80vw;
     margin: auto;
 }
 nav ul
@@ -53,6 +53,7 @@ h2
     text-align: center;
     font-size: 35pt;
     margin: 10px;
+    width: 80vw;
 }
 li
 {
@@ -63,7 +64,7 @@ li
 }
 img 
 {
-    width: 70vw;
+    width: 80vw;
 }
 .side
 {
