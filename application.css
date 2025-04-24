@@ -26,7 +26,7 @@ nav
 {
     border: 1px rgb(200, 200, 200) solid;
     text-align: center;
-    width: 92vh;
+    width: 92vw;
     margin: auto;
 }
 nav ul
@@ -63,7 +63,7 @@ li
 }
 img 
 {
-    width: 70pt;
+    width: 70vw;
 }
 .side
 {
