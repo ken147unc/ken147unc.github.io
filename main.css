@@ -66,6 +66,26 @@ table
     margin: auto;
 }
 
+h1 
+{
+    width: 80vw;  
+}
+
+h2
+{
+    width: 80vw;
+}
+
+p
+{
+    width: 80vw;
+}
+
+img 
+{
+    width: 80vw;
+}
+
 .p2
 {
   border-style: solid;
