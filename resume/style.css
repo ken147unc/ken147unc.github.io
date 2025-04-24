@@ -20,12 +20,12 @@ body
 }
 h1
 {
-    font-size: calc(16pt + 6vw);
+    font-size: calc(16vw + 6vw);
     font-family: 'Tech';
 }
 h2
 {
-    font-size: 28pt;
+    font-size: 28vw;
     font-family: 'Tech';
 }
 td, th
