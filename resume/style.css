@@ -20,13 +20,34 @@ body
 }
 h1
 {
-    font-size: calc(16pt + 6pt);
+    font-size: 2rem;
+
+    @media (width >= 40em) 
+    {
+        font-size: 3rem;
+    }
+    
+    @media (width >= 60em) 
+    {
+        font-size: 4rem;
+    }
+    
     font-family: 'Tech';
 }
 
 h2
 {
-    font-size: 28pt;
+    font-size: 1rem;
+
+    @media (width >= 40em) 
+    {
+        font-size: 2rem;
+    }
+    
+    @media (width >= 60em) 
+    {
+        font-size: 3rem;
+    }
     font-family: 'Tech';
 }
 
