@@ -68,15 +68,12 @@ table
     border: 2px black soild;
     border-collapse: collapse;
     margin: auto;
-    max-width: 100%;
-    height: auto;
+    
 }
 th
 {
     background-color: gray;
     font-size: 18px;
-    max-width: 100%;
-    height: auto;
 }
 nav
 {
