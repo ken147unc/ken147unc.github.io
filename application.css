@@ -63,12 +63,12 @@ li
 }
 .img 
 {
-    width: 50vw;
+    width: 50px;
 }
 .side
 {
     border: 2px rgb(200, 200, 200) solid;
-    width: 30vw;
+    width: 30pt;
     background-color: rgb(38, 38, 38);
     float: right;
 }
