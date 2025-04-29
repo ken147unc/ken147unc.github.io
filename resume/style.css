@@ -20,13 +20,13 @@ body
 }
 h1
 {
-    font-size: calc(16vw + 6vw);
+    font-size: calc(16pt + 6pt);
     font-family: 'Tech';
 }
 
 h2
 {
-    font-size: 28vw;
+    font-size: 28pt;
     font-family: 'Tech';
 }
 
@@ -54,13 +54,13 @@ nav
 #top
 {
     border: 12px var(--UNC-Gold) solid;
-    margin: 8vw;
+    margin: 8px;
     margin-top: 5px;
 }
 section
 {
     border: 5px var(--UNC-Blue) solid;
-    margin: 18vw;
+    margin: 18px;
     margin-top: 10px;
     margin-bottom: 20px;
 }
