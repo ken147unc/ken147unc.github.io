@@ -51,6 +51,12 @@ h2
     font-family: 'Tech';
 }
 
+img 
+{
+    max-width: 100%;
+    height: auto;
+}
+
 td, th
 {
     border: 2px solid black;
