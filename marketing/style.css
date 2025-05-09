@@ -1,10 +1,10 @@
 @font-face
 {
     font-family: 'Tech';
-    src: url(Arvo-Regular.ttf);
+    src: url(Assistant, sans-serif);
 }
 
-section img
+instruments img
 {
     max-width: 100%;
     height: auto;
@@ -38,4 +38,16 @@ a:visited
 a:hover 
 {
   color: hotpink;
+}
+
+:root {
+    --font-body-family: Assistant, sans-serif;
+    --font-body-style: normal;
+    --font-body-weight: 400;
+    --font-body-weight-bold: 700;
+    --font-heading-family: Assistant, sans-serif;
+    --font-heading-style: normal;
+    --font-heading-weight: 400;
+    --font-body-scale: 1.0;
+    --font-heading-scale: 1.0;
 }
