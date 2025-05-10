@@ -20,6 +20,10 @@ section
     background-color: #000000;
 }
 
+li {
+    background-color: black;
+}
+
 .a 
 {
     font-family: 'Tech';
